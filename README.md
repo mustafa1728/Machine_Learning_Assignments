@@ -1,4 +1,4 @@
-# Machine Learning assignments
+# Machine Learning Assignments
 My code for the assignments of course COL774 taken by Prof. Parag Singla at IIT Delhi
 
 ### Assignment 1 | Linear & Logistic Regression, Newton's method, GDA
