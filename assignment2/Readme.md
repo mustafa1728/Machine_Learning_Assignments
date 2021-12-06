@@ -5,7 +5,7 @@
 Training a simple review rating system using Naive Bayes text classification. Implemented the base Naive Bayes algotrithm with Laplace Smoothing. Experimented with bigrams and other methods of feature engineering to improve the performance further.
 
 <p align="center">
-    <img src="./Q1/plots/nb_comparision.png" width="500"/> 
+    <img src="./Q1/plots/nb_comparision.png" width="700"/> 
 </p>
 
 ### SVMs Binary Classification
