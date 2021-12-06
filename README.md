@@ -3,9 +3,9 @@ My code for the assignments of course COL774 taken by Prof. Parag Singla at IIT 
 
 
 <p align="center">
-    <img src="./assignment1/assets/gradient_descent.gif" width=300/> 
-    <img src="./assignment1/Q4/plots/gda_linear.png" width=350/> 
-    <img src="./assignment1/Q4/plots/gda_quadratic.png" width=350/> 
+    <img src="./assignment1/assets/gradient_descent.gif" width=350/> 
+    <img src="./assignment1/Q4/plots/gda_linear.png" width=300/> 
+    <img src="./assignment1/Q4/plots/gda_quadratic.png" width=300/> 
 </p>
 
 ### Assignment 1 | Linear & Logistic Regression, Newton's method, GDA
