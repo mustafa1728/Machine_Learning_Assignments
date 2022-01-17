@@ -24,3 +24,8 @@ The main code implementations for this assignment can be found [here](./assignme
 ### Assignment 3 | Decision Trees and Neural Networks
 
 The main code implementations for this assignment can be found [here](./assignment3/) and the report can be found [here](./assignment3/COL774_ass3_report.pdf).
+
+### Assignment 4 | Reading (Noisy) Captions Embedded in Images
+
+The main code implementations for this assignment can be found [here](https://github.com/mustafa1728/Caption-Reader) and the report can be found [here](https://github.com/mustafa1728/Caption-Reader/blob/main/ass4.pdf).
+
